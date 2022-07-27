@@ -1,0 +1,66 @@
+[
+    {
+        "id": "1",
+        "school": "Mystic Peak",
+        "character": "Swordsman",
+        "characterName": "-I-Genesis-I-",
+        "characterImage": "../img/swordsman1.jpg",
+        "level": "145"
+    },
+    {
+        "id": "2",
+        "school": "Phoenix",
+        "character": "Brawler",
+        "characterName": "DeppGaming",
+        "characterImage": "../img/brawler1.jpg",
+        "level": "150"
+    },
+    {
+        "id": "3",
+        "school": "Mystic Peak",
+        "character": "Archer",
+        "characterName": "X-Senorita-X",
+        "characterImage": "../img/archer1.jpg",
+        "level": "128"
+    },
+    {
+        "id": "4",
+        "school": "Sacred Gate",
+        "character": "Shaman",
+        "characterName": "Amethy_01",
+        "characterImage": "../img/shaman1.jpg",
+        "level": "150"
+    },
+    {
+        "id": "5",
+        "school": "Mystic Peak",
+        "character": "Shaman",
+        "characterName": "Faith-Shammy",
+        "characterImage": "../img/shaman2.jpg",
+        "level": "120"
+    },
+    {
+        "id": "6",
+        "school": "Mystic Peak",
+        "character": "Archer",
+        "characterName": "SF-DOD",
+        "characterImage": "../img/archer2.jpg",
+        "level": "135"
+    },
+    {
+        "id": "7",
+        "school": "Phoenix",
+        "character": "Swordsman",
+        "characterName": "One-Hit-Delete",
+        "characterImage": "../img/swordsman2.jpg",
+        "level": "126"
+    },
+    {
+        "id": "8",
+        "school": "Sacred Gate",
+        "character": "Brawler",
+        "characterName": "Nitz-",
+        "characterImage": "../img/brawler2.jpg",
+        "level": "120"
+    }
+]

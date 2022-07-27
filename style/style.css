@@ -1,0 +1,14 @@
+.row>* {
+    padding-left: 0!important;
+    padding-right: 0!important;
+}
+
+.card {
+    width: auto!important;
+    margin: 10px;
+}
+
+#json-body img {
+    max-width: 800px!important;
+    height: 250px!important;
+}
